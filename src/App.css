@@ -1,0 +1,6 @@
+.box {
+  display: flex;
+  padding: 5em;
+  justify-content: center;
+  border-radius: 15px;
+}
